@@ -1,0 +1,57 @@
+html{
+	padding:10px;
+}
+
+body {
+	font-family: arial;
+}
+
+div#dsplyName h3 {
+    margin: 0 auto;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+div#dsplyName button {
+    background-color: white;
+    width: 3px;
+    padding: 0px 10px;
+    cursor: pointer;
+}
+
+label {
+	font-weight: bold;
+}
+
+form div + div {
+    margin-top: 1em;
+}
+
+form input {
+    margin-top: 5px;
+    padding: 2px;
+}
+
+form p {
+    margin-top: 5px;
+}
+
+select {
+    padding: 2px;
+    margin-top: 5px;
+}
+
+button {
+	padding: 6px 15px;
+    border-radius: 7px;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+.red-border {
+	background-color: orangered;
+}
+
+.t-color{
+	color: orangered;
+}
