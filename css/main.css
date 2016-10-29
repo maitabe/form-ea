@@ -46,6 +46,7 @@ button {
     border-radius: 7px;
     font-weight: 800;
     cursor: pointer;
+    border-bottom-style: outset;
 }
 
 .red-border {
